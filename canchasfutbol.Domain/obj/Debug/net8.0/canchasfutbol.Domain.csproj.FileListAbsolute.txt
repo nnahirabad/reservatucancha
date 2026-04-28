@@ -1,0 +1,15 @@
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\bin\Debug\net8.0\canchasfutbol.Domain.deps.json
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\bin\Debug\net8.0\canchasfutbol.Domain.runtimeconfig.json
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\bin\Debug\net8.0\canchasfutbol.Domain.dll
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\bin\Debug\net8.0\canchasfutbol.Domain.pdb
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.csproj.AssemblyReference.cache
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.AssemblyInfoInputs.cache
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.AssemblyInfo.cs
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.sourcelink.json
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.dll
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\refint\canchasfutbol.Domain.dll
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.pdb
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\canchasfutbol.Domain.genruntimeconfig.cache
+C:\Users\nahir\OneDrive\Documentos\PROGRAMACION\Proyectos\reservatucancha\canchasfutbol.Domain\obj\Debug\net8.0\ref\canchasfutbol.Domain.dll

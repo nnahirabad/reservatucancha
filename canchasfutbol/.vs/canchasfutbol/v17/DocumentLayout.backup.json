@@ -1,0 +1,578 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol\\controllers\\canchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|solutionrelative:controllers\\canchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\canchas\\canchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1596F9-0810-4374-AF45-48E1ED7B1C16}|..\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.infrastructuree\\repositories\\canchasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1596F9-0810-4374-AF45-48E1ED7B1C16}|..\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.infrastructuree\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\commands\\update\\updatereservacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\commands\\update\\updatererservacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269D303D-DF20-418D-93F3-ED1D9FE099BA}|..\\canchasfutbol.Domain\\canchasfutbol.Domain.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.domain\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\disponibilidad\\queries\\getdisponibilidadqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\commands\\create\\createreservacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|solutionrelative:controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\disponibilidad\\queries\\getdisponibilidadquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\queries\\getallreservas\\getallreservasqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\queries\\getallreservas\\getallreservasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\dtos\\slotdisponibledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\contracts\\persistence\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\contracts\\persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1596F9-0810-4374-AF45-48E1ED7B1C16}|..\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.infrastructuree\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\queries\\getreservabyuser\\getreservabyuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\queries\\getreservabyuser\\getreservabyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\dtos\\identity\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\canchasfutbol.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1596F9-0810-4374-AF45-48E1ED7B1C16}|..\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.infrastructuree\\canchasfutbol.infrastructuree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5193110A-2832-4964-9C2E-91770E98A2E0}|canchasfutbol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\reservas\\queries\\getallreservas\\reservavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269D303D-DF20-418D-93F3-ED1D9FE099BA}|..\\canchasfutbol.Domain\\canchasfutbol.Domain.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269D303D-DF20-418D-93F3-ED1D9FE099BA}|..\\canchasfutbol.Domain\\canchasfutbol.Domain.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.domain\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\usuarios\\queries\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1596F9-0810-4374-AF45-48E1ED7B1C16}|..\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.infrastructuree\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\usuarios\\commands\\create\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA931484-384E-4BDA-91C0-53DC3A121568}|..\\canchasfutbol.Application\\canchasfutbol.Application.csproj|c:\\users\\nahir\\onedrive\\documentos\\programacion\\proyectos\\reservatucancha\\canchasfutbol.application\\features\\usuarios\\queries\\getuserbyid\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDisponibilidadQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQueryHandler.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQueryHandler.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQueryHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:35:27.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanchaController.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Controllers\\CanchaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CanchaController.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Controllers\\CanchaController.cs",
+              "RelativeToolTip": "Controllers\\CanchaController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:58:13.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Domain\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\Models\\Reserva.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Domain\\Models\\Reserva.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:42:00.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateReservaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateReservaCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateReservaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateReservaCommandHandler.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateReservaCommandHandler.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:17:31.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanchasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\Repositories\\CanchasRepository.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Infrastructuree\\Repositories\\CanchasRepository.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\Repositories\\CanchasRepository.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Infrastructuree\\Repositories\\CanchasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:27:26.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanchaService.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Canchas\\CanchaService.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Canchas\\CanchaService.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Canchas\\CanchaService.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Canchas\\CanchaService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:27:31.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateRerservaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateRerservaCommand.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateRerservaCommand.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateRerservaCommand.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Update\\UpdateRerservaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:26:00.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\Repositories\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Infrastructuree\\Repositories\\ReservaRepository.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\Repositories\\ReservaRepository.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Infrastructuree\\Repositories\\ReservaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:17:54.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateReservaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Create\\CreateReservaCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Create\\CreateReservaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Create\\CreateReservaCommandHandler.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Commands\\Create\\CreateReservaCommandHandler.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:17:09.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Controllers\\ReservaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:07:37.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SlotDisponibleDto.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Dtos\\SlotDisponibleDto.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Dtos\\SlotDisponibleDto.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Dtos\\SlotDisponibleDto.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Dtos\\SlotDisponibleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:25:27.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetDisponibilidadQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQuery.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQuery.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQuery.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Disponibilidad\\Queries\\GetDisponibilidadQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:35:01.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllReservasQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQuery.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQuery.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQuery.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:38:27.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllReservasQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQueryHandler.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQueryHandler.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\GetAllReservasQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAIADMO4gwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:39:25.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Contracts\\Persistence\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Contracts\\Persistence\\IReservaRepository.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Contracts\\Persistence\\IReservaRepository.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Contracts\\Persistence\\IReservaRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:20:24.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Exceptions\\BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:17:20.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:16:31.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Infrastructuree\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Infrastructuree\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:05:53.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:54:41.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetReservaByUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserHandler.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserHandler.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserHandler.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAALDMhwCAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:10:40.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetReservaByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserQuery.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserQuery.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserQuery.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetReservaByUser\\GetReservaByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:07:39.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAACcp4kFwCgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:57:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:47:28.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Dtos\\Identity\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Dtos\\Identity\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Dtos\\Identity\\AuthResponse.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Dtos\\Identity\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:47:11.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "canchasfutbol.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\canchasfutbol.Application.csproj",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\canchasfutbol.Application.csproj",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\canchasfutbol.Application.csproj",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\canchasfutbol.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T14:38:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReservaVm.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\ReservaVm.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\ReservaVm.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\ReservaVm.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Reservas\\Queries\\GetAllReservas\\ReservaVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:04:58.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:05:45.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "canchasfutbol.Infrastructuree.csproj",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj",
+              "RelativeToolTip": "..\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T22:28:50.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T14:29:30.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Domain\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Domain\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:50:18.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cancha.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\Models\\Cancha.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Domain\\Models\\Cancha.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\Models\\Cancha.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Domain\\Models\\Cancha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:50:27.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\Login\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\Login\\LoginHandler.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\Login\\LoginHandler.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\Login\\LoginHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:28:52.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Infrastructuree\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Infrastructuree\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:30:48.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Helpers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Helpers\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:47:16.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Usuarios\\Commands\\Create\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Usuarios\\Commands\\Create\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Usuarios\\Commands\\Create\\CreateUserCommand.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Usuarios\\Commands\\Create\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:27:19.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserVm.cs",
+              "DocumentMoniker": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\GetUserById\\UserVm.cs",
+              "RelativeDocumentMoniker": "..\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\GetUserById\\UserVm.cs",
+              "ToolTip": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\GetUserById\\UserVm.cs",
+              "RelativeToolTip": "..\\canchasfutbol.Application\\Features\\Usuarios\\Queries\\GetUserById\\UserVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:07:02.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
