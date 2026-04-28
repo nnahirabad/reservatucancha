@@ -1,6 +1,7 @@
 ﻿using canchasfutbol.Application.Features.Reservas.Commands.Create;
 using canchasfutbol.Application.Features.Reservas.Queries.GetAllReservas;
 using canchasfutbol.Application.Features.Reservas.Queries.GetReservaByUser;
+using canchasfutbol.Application.Features.Reservas.Commands.Delete; 
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
@@ -56,8 +57,10 @@ namespace canchasfutbol.Controllers
 
         // DELETE api/<ReservaController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete([FromQuery] Guid id)
         {
+            var command = new DeleteReservaCommand(id); 
+            return await _mediator.Send(command); 
             
         }
     }

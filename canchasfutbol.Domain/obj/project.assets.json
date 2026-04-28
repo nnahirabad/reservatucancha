@@ -2294,23 +2294,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nahir\\.nuget\\packages\\": {},
+    "C:\\Users\\santi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\canchasfutbol.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol.Domain\\canchasfutbol.Domain.csproj",
       "projectName": "canchasfutbol.Domain",
-      "projectPath": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\canchasfutbol.Domain.csproj",
-      "packagesPath": "C:\\Users\\nahir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Domain\\obj\\",
+      "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol.Domain\\canchasfutbol.Domain.csproj",
+      "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nahir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2370,7 +2370,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

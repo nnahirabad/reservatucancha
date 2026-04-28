@@ -3278,23 +3278,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nahir\\.nuget\\packages\\": {},
+    "C:\\Users\\santi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\canchasfutbol.csproj",
+      "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol\\canchasfutbol.csproj",
       "projectName": "canchasfutbol",
-      "projectPath": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\canchasfutbol.csproj",
-      "packagesPath": "C:\\Users\\nahir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol\\obj\\",
+      "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol\\canchasfutbol.csproj",
+      "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nahir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3309,11 +3309,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\canchasfutbol.Application.csproj": {
-              "projectPath": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Application\\canchasfutbol.Application.csproj"
+            "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol.Application\\canchasfutbol.Application.csproj": {
+              "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol.Application\\canchasfutbol.Application.csproj"
             },
-            "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj": {
-              "projectPath": "C:\\Users\\nahir\\OneDrive\\Documentos\\PROGRAMACION\\Proyectos\\reservatucancha\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj"
+            "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj": {
+              "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\Nahir Programacion\\reservatucancha\\canchasfutbol.Infrastructuree\\canchasfutbol.Infrastructuree.csproj"
             }
           }
         }
@@ -3368,7 +3368,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -3377,8 +3377,8 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Se detectó una versión del paquete fuera de la restricción de dependencia: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requiere MediatR (>= 11.0.0 && < 12.0.0), pero la versión MediatR 13.0.0 ya se resolvió.",
-      "libraryId": "MediatR",
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.0.1 was resolved.",
+      "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
       ]
@@ -3387,8 +3387,8 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Se detectó una versión del paquete fuera de la restricción de dependencia: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requiere AutoMapper (= 12.0.1), pero la versión AutoMapper 15.0.1 ya se resolvió.",
-      "libraryId": "AutoMapper",
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 13.0.0 was resolved.",
+      "libraryId": "MediatR",
       "targetGraphs": [
         "net8.0"
       ]
@@ -3397,7 +3397,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"BCrypt 1.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'BCrypt 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "BCrypt",
       "targetGraphs": [
         "net8.0"

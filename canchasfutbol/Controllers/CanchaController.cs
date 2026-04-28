@@ -66,8 +66,11 @@ namespace canchasfutbol.Controllers
 
         // DELETE api/<CanchaController>/5
         [HttpDelete("{id}")]
-        public void Delete(Guid id)
+        public async Task<ActionResult<bool>> Delete([FromBody]Guid id)
         {
+            return await _canchaService.DeleteAsync(id); 
+           
+
         }
     }
 }
